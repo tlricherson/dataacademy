@@ -1,6 +1,8 @@
 # 5 - Storytelling with Data #
 
-A data story combines text, data, and visual elements. During this session, we will consider the ethics of design choices, the responsibilities of communicating data in equitable ways, and how we can use basic statistics to know when we have a story.
+A data story combines text, data, and visual elements. During this session, we will consider the [ethics of design choices](https://pinboard.in/u:tlricherson/t:ethics), the responsibilities of communicating data in equitable ways, and how we can use [basic statistics](https://pinboard.in/u:tlricherson/t:statistics) to know when we have a story.
+
+
 
 ## Literature review ##
 D’Ignazio, C., & Klein, L. F. (2016). [Feminist data visualization.](http://vis4dh.dbvis.de/papers/Feminist%20Data%20Visualization.pdf) In Workshop on Visualization for the Digital Humanities (VIS4DH), Baltimore. IEEE.
