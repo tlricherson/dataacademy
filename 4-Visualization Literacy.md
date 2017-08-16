@@ -5,7 +5,7 @@ Many of us were taught to read and write text, but few know the basic rules of c
 ## Tools ##
 The resources listed below can provide some guidance when selecting a chart and communicating your data. It is critical to remember that design choices are **not** neutral. See the post on [You Say Data, I Say System](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) by Jer Thorp for some background. We will talk about this more in the next session.
 
-[The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emergy and Stephanie Evergreen
+[The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
 
 [Qualitative Chart Chooser](http://stephanieevergreen.com/wp-content/uploads/2016/11/Qualitative-Chooser-2.0.pdf) by Stephanie Evergreen
 
