@@ -2,6 +2,8 @@
 
 It’s time to sharpen your skills with Excel, including how to join data from multiple sources, build pivot tables, as well as formula basics.
 
+![CleanData](https://s3.amazonaws.com/TLRicherson_Graphics/GitHub/MadiLAlexander.png)
+
 ## Blogs and web sites ##
 [Contextures](http://blog.contextures.com/) by [Debra Dalgleish](https://twitter.com/ddalgleish)
 
