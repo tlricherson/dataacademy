@@ -13,4 +13,4 @@ It’s time to sharpen your skills with Excel, including how to join data from m
 [Ann K. Emergy Tutorials](http://annkemery.com/category/visualizing-data/tutorials/) by [Ann Emery](https://twitter.com/annkemery)
 
 ## Tips and Tricks ##
-I keep a list of [Excel sites tagged in Pinboard](https://pinboard.in/u:tlricherson/t:Excel) that you can use as a reference.
+I keep a list of [Excel sites](https://pinboard.in/u:tlricherson/t:Excel)tagged in Pinboard that you can use as a reference.
