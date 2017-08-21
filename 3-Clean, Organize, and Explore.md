@@ -10,7 +10,7 @@ It’s time to sharpen your skills with Excel, including how to join data from m
 
 [Chandoo.org](http://chandoo.org/wp/) by [Purna Duggirala](https://twitter.com/r1c1)
 
-[Ann K. Emergy Tutorials](http://annkemery.com/category/visualizing-data/tutorials/) by [Ann Emery](https://twitter.com/annkemery)
+[Ann K. Emery Tutorials](http://annkemery.com/category/visualizing-data/tutorials/) by [Ann Emery](https://twitter.com/annkemery)
 
 ## Tips and tricks ##
 I keep a list of [Excel sites](https://pinboard.in/u:tlricherson/t:Excel) tagged in Pinboard that you can use as a reference.
