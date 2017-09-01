@@ -2,6 +2,11 @@
 
 We will explore current frameworks and research around data use in schools. Topics will include data literacy, student-involved data use, and classroom “look fors.” 
 
+## Documents ##
+* [1f - Using student assessments](https://github.com/tlricherson/dataacademy/blob/master/documents/1f%20Using%20Student%20Assessments.pdf)
+* [3d - Using assessment in instruction](https://github.com/tlricherson/dataacademy/blob/master/documents/3d%20Using%20Assessment%20in%20Instruction.pdf)
+* [4b - Maintaining accurate records](https://github.com/tlricherson/dataacademy/blob/master/documents/4b%20Maintaining%20Accurate%20Records.pdf)
+
 ## Literature Review ##
 Datnow, A., & Hubbard, L. (2016). [Teacher capacity for and beliefs about data-driven decision making: A literature review of international research.](https://link.springer.com/article/10.1007/s10833-015-9264-2) Journal of Educational Change, 17(1), 7-28.
 
