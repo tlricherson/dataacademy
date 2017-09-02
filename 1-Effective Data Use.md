@@ -21,3 +21,7 @@ Mandinach, E. B., & Gummer, E. S. (2016). [What does it mean for teachers to be 
 Schildkamp, K., & Kuiper, W. (2010). [Data-informed curriculum reform: Which data, what purposes, and promoting and hindering factors.](http://www.sciencedirect.com/science/article/pii/S0742051X09001322) Teaching and teacher education, 26(3), 482-496.
 
 Vanlommel, K., Vanhoof, J., & Van Petegem, P. (2016). [Data use by teachers: The impact of motivation, decision-making style, supportive relationships and reflective capacity.](http://www.tandfonline.com/doi/abs/10.1080/03055698.2016.1148582) Educational Studies, 42(1), 36-53.
+
+## Bunny Trails ##
+* Learn more about the [history of data visualization in journalism](https://eagereyes.org/link/scott-klein-on-the-history-of-data-journalism) as told by Scott Klein of ProPublica. You can watch his presentation at the 2016 Tapestry conference at the link above.
+* Watch Josh Begley's 2016 Eyeo presentation: [Setting Tangents around a Circle](https://vimeo.com/channels/eyeo2016/176869833) and consider the impact of our choices about which data to include or exclude.
