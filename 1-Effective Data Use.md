@@ -24,4 +24,4 @@ Vanlommel, K., Vanhoof, J., & Van Petegem, P. (2016). [Data use by teachers: The
 
 ## Bunny Trails ##
 * Learn more about the [history of data visualization in journalism](https://eagereyes.org/link/scott-klein-on-the-history-of-data-journalism) as told by [Scott Klein](https://twitter.com/kleinmatic) of ProPublica. You can watch his presentation at the 2016 Tapestry conference at the link above.
-* Watch the 2016 Eyeo presentation,[Setting Tangents around a Circle](https://vimeo.com/channels/eyeo2016/176869833), from [Josh Begley](https://twitter.com/joshbegley) and consider the impact of our choices about which data to include or exclude.
+* Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/channels/eyeo2016/176869833), from [Josh Begley](https://twitter.com/joshbegley) and consider the impact of our choices about which data to include or exclude.
