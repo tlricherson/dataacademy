@@ -11,6 +11,9 @@ We will explore current frameworks and research around data use in schools. Topi
 ### ASWP ###
 * [Criterion 3 - Planning with data](https://github.com/tlricherson/dataacademy/blob/master/documents/AWSP%20Criterion%203%20Planning%20with%20Data.pdf)
 
+### WASA ###
+* [Criterion 3 - System-wide improvement](https://github.com/tlricherson/dataacademy/blob/master/documents/WASA%20Criterion%203%20System-wide%20Improvement.pdf)
+
 ## Literature Review ##
 Datnow, A., & Hubbard, L. (2016). [Teacher capacity for and beliefs about data-driven decision making: A literature review of international research.](https://link.springer.com/article/10.1007/s10833-015-9264-2) Journal of Educational Change, 17(1), 7-28.
 
