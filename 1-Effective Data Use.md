@@ -19,6 +19,8 @@ Datnow, A., & Hubbard, L. (2016). [Teacher capacity for and beliefs about data-d
 
 Farrell, C. C., & Marsh, J. A. (2016). [Contributing conditions: A qualitative comparative analysis of teachers’ instructional responses to data.](http://www.sciencedirect.com/science/article/pii/S0742051X1630138X) Teaching and Teacher Education, 60, 398-412.
 
+Hoogland, I., Schildkamp, K., van der Kleij, F., Heitink, M., Kippers, W., Veldkamp, B., & Dijkstra, A. M. (2016). [Prerequisites for data-based decision making in the classroom: Research evidence and practical illustrations.](http://www.sciencedirect.com/science/article/pii/S0742051X16301408) Teaching and teacher education, 60, 377-386.
+
 Mandinach, E. B., & Gummer, E. S. (2016). [What does it mean for teachers to be data literate: Laying out the skills, knowledge, and dispositions.](http://www.sciencedirect.com/science/article/pii/S0742051X16301391) Teaching and Teacher Education, 60, 366-376.
 
 Schildkamp, K., & Kuiper, W. (2010). [Data-informed curriculum reform: Which data, what purposes, and promoting and hindering factors.](http://www.sciencedirect.com/science/article/pii/S0742051X09001322) Teaching and teacher education, 26(3), 482-496.
