@@ -25,6 +25,8 @@ Mandinach, E. B., & Gummer, E. S. (2016). [What does it mean for teachers to be 
 
 Mandinach, E. B., & Jimerson, J. B. (2016). [Teachers learning how to use data: A synthesis of the issues and what is known.](http://www.sciencedirect.com/science/article/pii/S0742051X16301378) Teaching and Teacher Education, 60, 452-457.
 
+Park, V., Daly, A. J., & Guerra, A. W. (2013). [Strategic framing: How leaders craft the meaning of data use for equity and learning.](http://journals.sagepub.com/doi/abs/10.1177/0895904811429295) Educational Policy, 27(4), 645-675.
+
 Schildkamp, K., & Kuiper, W. (2010). [Data-informed curriculum reform: Which data, what purposes, and promoting and hindering factors.](http://www.sciencedirect.com/science/article/pii/S0742051X09001322) Teaching and teacher education, 26(3), 482-496.
 
 Vanlommel, K., Vanhoof, J., & Van Petegem, P. (2016). [Data use by teachers: The impact of motivation, decision-making style, supportive relationships and reflective capacity.](http://www.tandfonline.com/doi/abs/10.1080/03055698.2016.1148582) Educational Studies, 42(1), 36-53.
