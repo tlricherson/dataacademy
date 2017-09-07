@@ -23,6 +23,8 @@ Hoogland, I., Schildkamp, K., van der Kleij, F., Heitink, M., Kippers, W., Veldk
 
 Mandinach, E. B., & Gummer, E. S. (2016). [What does it mean for teachers to be data literate: Laying out the skills, knowledge, and dispositions.](http://www.sciencedirect.com/science/article/pii/S0742051X16301391) Teaching and Teacher Education, 60, 366-376.
 
+Mandinach, E. B., & Jimerson, J. B. (2016). [Teachers learning how to use data: A synthesis of the issues and what is known.](http://www.sciencedirect.com/science/article/pii/S0742051X16301378) Teaching and Teacher Education, 60, 452-457.
+
 Schildkamp, K., & Kuiper, W. (2010). [Data-informed curriculum reform: Which data, what purposes, and promoting and hindering factors.](http://www.sciencedirect.com/science/article/pii/S0742051X09001322) Teaching and teacher education, 26(3), 482-496.
 
 Vanlommel, K., Vanhoof, J., & Van Petegem, P. (2016). [Data use by teachers: The impact of motivation, decision-making style, supportive relationships and reflective capacity.](http://www.tandfonline.com/doi/abs/10.1080/03055698.2016.1148582) Educational Studies, 42(1), 36-53.
