@@ -15,3 +15,6 @@ Turkle, S., & Papert, S. (1992). [Epistemological pluralism and the revaluation 
 [The radical potential of the Digital Humanities: The most challenging computing problem is the interrogation of power](http://blogs.lse.ac.uk/impactofsocialsciences/2015/08/12/the-radical-unrealized-potential-of-digital-humanities/) by [Miriam Posner](https://twitter.com/miriamkp)
 
 [Visualization as argument](http://lklein.com/2014/12/visualization-as-argument/) by [Lauren Klein](https://twitter.com/laurenfklein). See also the summary of a presentation by her on [feminist data visualization](http://www.northeastern.edu/nulab/lauren-klein-feminist-data-visualization/) or view [all of her projects](http://dhlab.lmc.gatech.edu/projects/).
+
+## Bunny trails ##
+A pop-up shop in London will trade you your data for something you want to buy. Take a look [inside the store that only accepts personal data as currency](https://www.engadget.com/2017/09/07/data-dollar-store-london-ben-eine/).
