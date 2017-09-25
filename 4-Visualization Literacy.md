@@ -12,3 +12,5 @@ The resources listed below can provide some guidance when selecting a chart and 
 [Chart Suggestions: A Thought Starter](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela
 
 [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
+
+## Literature review ##
