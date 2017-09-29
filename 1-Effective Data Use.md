@@ -5,8 +5,6 @@ We will explore current frameworks and research around data use in schools. Topi
 ## Documents ##
 These [instructions](https://github.com/tlricherson/dataacademy/blob/master/documents/Instructions%20for%20Framework.pdf) will guide our work in developing a district framework for effective data use. The armature below comes from the Schildkamp article reference in the Literature Review section, but many other pieces of educational research over the last decade point to similar categories. Remember, this is a starting point. We can add, edit, or delete to support our own vision of data use for our district.
 
-<a href="url"><img src="https://github.com/tlricherson/dataacademy/blob/master/graphics/Framework%20for%20GH.png" align="left" height="300"  ></a>
-
 ### Evaluation frameworks ###
 * [Danielson 1f - Using student assessments](https://github.com/tlricherson/dataacademy/blob/master/documents/1f%20Using%20Student%20Assessments.pdf)
 * [Danielson 3d - Using assessment in instruction](https://github.com/tlricherson/dataacademy/blob/master/documents/3d%20Using%20Assessment%20in%20Instruction.pdf)
@@ -16,7 +14,6 @@ These [instructions](https://github.com/tlricherson/dataacademy/blob/master/docu
 ### E-skills ###
 * [Open data and e-skills](https://euagenda.eu/upload/publications/untitled-63236-ea.pdf) (full article)
 * [Summary of data skills](https://github.com/tlricherson/dataacademy/blob/master/documents/Summary%20of%20Skills%20from%20Open%20Data.pdf)
-
 
 
 ## Literature Review ##
