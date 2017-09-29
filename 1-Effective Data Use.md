@@ -3,12 +3,21 @@
 We will explore current frameworks and research around data use in schools. Topics will include data literacy, student-involved data use, and classroom “look fors.” 
 
 ## Documents ##
+These [instructions](https://github.com/tlricherson/dataacademy/blob/master/documents/Instructions%20for%20Framework.pdf) will guide our work in developing a district framework for effective data use. The armature below comes from the Schildkamp article reference in the Literature Review section, but many other pieces of educational research over the last decade point to similar categories. Remember, this is a starting point. We can add, edit, or delete to support our own vision of data use for our district.
+
+<a href="url"><img src="https://github.com/tlricherson/dataacademy/blob/master/graphics/Framework%20for%20GH.png" align="left" height="300"  ></a>
+
 ### Evaluation frameworks ###
 * [Danielson 1f - Using student assessments](https://github.com/tlricherson/dataacademy/blob/master/documents/1f%20Using%20Student%20Assessments.pdf)
 * [Danielson 3d - Using assessment in instruction](https://github.com/tlricherson/dataacademy/blob/master/documents/3d%20Using%20Assessment%20in%20Instruction.pdf)
 * [Danielson 4b - Maintaining accurate records](https://github.com/tlricherson/dataacademy/blob/master/documents/4b%20Maintaining%20Accurate%20Records.pdf)
 * [AWSP Criterion 3 - Planning with data](https://github.com/tlricherson/dataacademy/blob/master/documents/AWSP%20Criterion%203%20Planning%20with%20Data.pdf)
 * [WASA Criterion 3 - System-wide improvement](https://github.com/tlricherson/dataacademy/blob/master/documents/WASA%20Criterion%203%20System-wide%20Improvement.pdf)
+### E-skills ###
+* [Open data and e-skills](https://euagenda.eu/upload/publications/untitled-63236-ea.pdf) (full article)
+* [Summary of data skills](https://github.com/tlricherson/dataacademy/blob/master/documents/Summary%20of%20Skills%20from%20Open%20Data.pdf)
+
+
 
 ## Literature Review ##
 Datnow, A., & Hubbard, L. (2016). [Teacher capacity for and beliefs about data-driven decision making: A literature review of international research.](https://link.springer.com/article/10.1007/s10833-015-9264-2) Journal of Educational Change, 17(1), 7-28.
