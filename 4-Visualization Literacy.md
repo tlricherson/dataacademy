@@ -23,3 +23,8 @@ Brehmer, M., Lee, B., Bach, B., Riche, N. H., & Munzner, T. (2017). [Timelines r
 Skau, D., & Kosara, R. (2016, June). [Arcs, angles, or areas: individual data encodings in pie and donut charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf). In Computer Graphics Forum (Vol. 35, No. 3, pp. 121-130).
 
 Walny, J., Huron, S., Perin, C., Wun, T., Pusch, R., & Carpendale, S. (2017). [Active Reading of Visualizations](http://ieeexplore.ieee.org/abstract/document/8017606/?reload=true). IEEE Transactions on Visualization and Computer Graphics.
+
+## Bunny trails ##
+Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
+
+Visit the [Instagram](https://www.instagram.com/monachalabi/) feed of data editor [Mona Chalabi](https://twitter.com/MonaChalabi) for hand drawn charts on a variety of topics. Also, check out the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing.
