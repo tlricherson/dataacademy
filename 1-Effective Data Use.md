@@ -18,7 +18,7 @@ These [instructions](https://github.com/tlricherson/dataacademy/blob/master/docu
 * [Summary of data skills](https://github.com/tlricherson/dataacademy/blob/master/documents/Summary%20of%20Skills%20from%20Open%20Data.pdf)
 
 
-## Literature Review ##
+## Literature review ##
 Datnow, A., & Hubbard, L. (2016). [Teacher capacity for and beliefs about data-driven decision making: A literature review of international research.](https://link.springer.com/article/10.1007/s10833-015-9264-2) Journal of Educational Change, 17(1), 7-28.
 
 Farrell, C. C., & Marsh, J. A. (2016). [Contributing conditions: A qualitative comparative analysis of teachers’ instructional responses to data.](http://www.sciencedirect.com/science/article/pii/S0742051X1630138X) Teaching and Teacher Education, 60, 398-412.
@@ -35,7 +35,7 @@ Schildkamp, K., & Kuiper, W. (2010). [Data-informed curriculum reform: Which dat
 
 Vanlommel, K., Vanhoof, J., & Van Petegem, P. (2016). [Data use by teachers: The impact of motivation, decision-making style, supportive relationships and reflective capacity.](http://www.tandfonline.com/doi/abs/10.1080/03055698.2016.1148582) Educational Studies, 42(1), 36-53.
 
-## Bunny Trails ##
+## Bunny trails ##
 * Learn more about the [history of data visualization in journalism](https://eagereyes.org/link/scott-klein-on-the-history-of-data-journalism) as told by [Scott Klein](https://twitter.com/kleinmatic) of ProPublica. You can watch his presentation at the 2016 Tapestry conference at the link above.
 * Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/channels/eyeo2016/176869833), from [Josh Begley](https://twitter.com/joshbegley) and consider the impact of our choices about which data to include or exclude.
 * Have you ever tried to imagine how a fish soup tastes whose recipe is based on publicly available local fishing data? Or what a pizza would be like if it was based on Helsinki’s population mix? [Data Cuisine](http://data-cuisine.net/), led by [Moritz Stefaner](https://twitter.com/moritz_stefaner), explores food as a means of data expression - or, if you like – edible diagrams.
