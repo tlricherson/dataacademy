@@ -15,6 +15,8 @@ Hullman, J., & Diakopoulos, N. (2011). [Visualization rhetoric: Framing effects 
 
 Hullman, J., Kosara, R., & Lam, H. (2017, June). [Finding a Clear Path: Structuring Strategies for Visualization Sequences.](https://research.tableau.com/sites/default/files/Hullman-EuroVis-2017.pdf) In Computer Graphics Forum (Vol. 36, No. 3, pp. 365-375).
 
+Kim, Y. S., Reinecke, K., & Hullman, J. (2017). [Data Through Others' Eyes: The Impact of Visualizing Others' Expectations on Visualization Interpretation](http://faculty.washington.edu/jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization and Computer Graphics.
+
 Kozlíková, B., Schreck, T., & Wischgoll, T. [An Argument Structure for Data Stories.](https://research.tableau.com/sites/default/files/Kosara-EuroVis-2017.pdf)
 
 Lee, B., Riche, N. H., Isenberg, P., & Carpendale, S. (2015). [More than telling a story: Transforming data into visually shared stories.](https://hal.inria.fr/hal-01158445/document) IEEE computer graphics and applications, 35(5), 84-90.
