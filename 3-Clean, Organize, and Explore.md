@@ -4,13 +4,10 @@ It’s time to sharpen your skills with Excel, including how to join data from m
 
 
 ## Excel blogs and web sites ##
-[Contextures](http://blog.contextures.com/) by [Debra Dalgleish](https://twitter.com/ddalgleish)
-
-[Peltier Tech Blog](https://peltiertech.com/) by [Jon Peltier](https://twitter.com/jon_peltier)
-
-[Chandoo.org](http://chandoo.org/wp/) by [Purna Duggirala](https://twitter.com/r1c1)
-
-[Ann K. Emery Tutorials](http://annkemery.com/category/visualizing-data/tutorials/) by [Ann Emery](https://twitter.com/annkemery)
+* [Contextures](http://blog.contextures.com/) by [Debra Dalgleish](https://twitter.com/ddalgleish)
+* [Peltier Tech Blog](https://peltiertech.com/) by [Jon Peltier](https://twitter.com/jon_peltier)
+* [Chandoo.org](http://chandoo.org/wp/) by [Purna Duggirala](https://twitter.com/r1c1)
+* [Ann K. Emery Tutorials](http://annkemery.com/category/visualizing-data/tutorials/) by [Ann Emery](https://twitter.com/annkemery)
 
 ## Tips and tricks ##
 * Have a large load of dirty data? Try [Open Refine](http://openrefine.org/) or the [Data Wrangle](http://vis.stanford.edu/wrangler/) to jumpstart the clean up process.
