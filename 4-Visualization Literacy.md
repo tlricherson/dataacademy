@@ -26,3 +26,5 @@ Walny, J., Huron, S., Perin, C., Wun, T., Pusch, R., & Carpendale, S. (2017). [A
 Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
 
 Visit the [Instagram](https://www.instagram.com/monachalabi/) feed of data editor [Mona Chalabi](https://twitter.com/MonaChalabi) for hand drawn charts on a variety of topics. Also, check out the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing.
+
+[Elijah Meeks](https://twitter.com/Elijah_Meeks) has shared some background on the [gestalt principles for data visualization](https://emeeks.github.io/gestaltdataviz/section1.html). Also check out this article on [five ways you can use gestalt principles for powerful imagery](https://www.neurosciencemarketing.com/blog/articles/gestalt-principles.htm).
