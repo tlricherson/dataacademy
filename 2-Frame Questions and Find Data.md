@@ -18,3 +18,6 @@ There are many places to find additional data sets for education (and other area
 
 ## Literature review ##
 Feinberg, Melanie. (2017). [A Design Perspective on Data.](https://dl.acm.org/citation.cfm?id=3025837) 2952-2963. 10.1145/3025453.3025837. 
+
+## Bunny trails ##
+What do we do about missing data...and why is it missing in the first place? [Mimi Onuoha](https://twitter.com/thistimeitsmimi) has started a repo to [explore this topic](https://github.com/MimiOnuoha/missing-datasets). At the 2016 Tapestry Conference, {Eva Galanes-Rosenbaum](https://twitter.com/NotoriousEGR) shares that [the plural of anecdote is not "data"...except when it is](http://www.tapestryconference.com/blog/2016/plural-anecdote-not-data%E2%80%94except-when-it) as a way to show how we can mitigate the effects of missing data. You may also be interested in this recent post on [four methods to deal with missing data](https://blog.socialcops.com/academy/resources/4-methods-missing-data/).
