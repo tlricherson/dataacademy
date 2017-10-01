@@ -28,6 +28,8 @@ Stolper, C. D., Lee, B., Riche, N. H., & Stasko, J. (2017). [Emerging and recurr
 Turkle, S., & Papert, S. (1992). [Epistemological pluralism and the revaluation of the concrete.](http://web.mit.edu/sturkle/www/pdfsforstwebpage/ST_Epistemo%20Pluralism.pdf) Journal of Mathematical Behavior, 11(1), 3-33.
 
 ## Bunny trails ##
+We are rarely good storytellers...but why? An article from PsychCentral explores [why most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html0) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/).
+
 Browse the [projects from the Tactical Technology Collective](https://tacticaltech.org/projects/all). These focus on three themes: politics of data, digital security and privacy, and exposing and shaping issues. [The White Room](https://tacticaltech.org/WhiteRoom) is highly recommended. You can also watch Marek Tuszynski speak about the project in this [Eyeo 2016 presentation](https://vimeo.com/178236532).
 
 Read [Miriam Posner](https://twitter.com/miriamkp)'s summary of her keynote on [The radical potential of the Digital Humanities: The most challenging computing problem is the interrogation of power](http://blogs.lse.ac.uk/impactofsocialsciences/2015/08/12/the-radical-unrealized-potential-of-digital-humanities/) to think more about structures of power, like race and gender, as they relate to how we use data.
