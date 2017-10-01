@@ -18,6 +18,8 @@ It’s time to sharpen your skills with Excel, including how to join data from m
 ## Literature review ##
 Wickham, H. (2014). [Tidy data.](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf) Journal of Statistical Software, 59(10), 1-23.
 
+<a href="url"><img src="https://github.com/tlricherson/dataacademy/blob/master/graphics/ExcelChild.PNG" align="center" height="200"  ></a>
+
 ## Bunny trails ##
 The world runs on Excel, but it is certainly not the only game in town. [The Chartmaker Directory](http://chartmaker.visualisingdata.com/) can show you examples of different ways to create with data. Over at the [Data Viz Tools](http://dataviz.tools/) site, you can find support not only for cleaning and organizing your data, but to scrape data, find add-ons, and more. 
 
