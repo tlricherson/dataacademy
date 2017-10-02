@@ -35,6 +35,8 @@ Schildkamp, K., & Kuiper, W. (2010). [Data-informed curriculum reform: Which dat
 
 Vanlommel, K., Vanhoof, J., & Van Petegem, P. (2016). [Data use by teachers: The impact of motivation, decision-making style, supportive relationships and reflective capacity.](http://www.tandfonline.com/doi/abs/10.1080/03055698.2016.1148582) Educational Studies, 42(1), 36-53.
 
+Zadra, J. R., & Clore, G. L. (2011). [Emotion and perception: The role of affective information.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203022/) Wiley interdisciplinary reviews: cognitive science, 2(6), 676-685.
+
 ## Bunny trails ##
 * Learn more about the [history of data visualization in journalism](https://eagereyes.org/link/scott-klein-on-the-history-of-data-journalism) as told by [Scott Klein](https://twitter.com/kleinmatic) of ProPublica. You can watch his presentation at the 2016 Tapestry conference at the link above.
 * Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/channels/eyeo2016/176869833), from [Josh Begley](https://twitter.com/joshbegley) and consider the impact of our choices about which data to include or exclude.
