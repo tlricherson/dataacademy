@@ -14,6 +14,7 @@ It’s time to sharpen your skills with Excel, including how to join data from m
 * [Maarten Lambrects](https://twitter.com/maartenzam) has a whole [course in cleaning data](https://learno.net/courses/cleaning-data-in-excel). This is especially valuable for large data sets.
 * Learn more about pivot tables with these videos ([Part 1](https://www.youtube.com/watch?v=9NUjHBNWe9M) and [Part 2](https://www.youtube.com/watch?v=g530cnFfk8Y)). Like many resources, they present things through a business lens, but the overall mechanics will work for your data, too.
 * I also keep a list of [Excel sites](https://pinboard.in/u:tlricherson/t:Excel) tagged in Pinboard that you can use as a reference.
+* If you have a lot of data to track, you'll need an organized system and structure for [file naming](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf). Jenny Bryan has shared some excellent tips on how to do this.
 
 ## Literature review ##
 Wickham, H. (2014). [Tidy data.](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf) Journal of Statistical Software, 59(10), 1-23.
