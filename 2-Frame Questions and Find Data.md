@@ -2,6 +2,12 @@
 
 We will focus on asking high-leverage questions, then using data mining, canned reports and extracts, and other options to pull relevant data from Skyward and Homeroom to answer these questions.
 
+## Questions ##
+Effective data use begins with a good question. This establishes a purpose for using the data and making predictions to enhance learning. A few sample questions are below, but you can also [view more ideas](https://docs.google.com/document/d/1DhOa5GSvwWsVc2UY163-98doHWNE4H-LN7mupu4kMos/edit?usp=sharing), if needed.
+* What is the relationship between student attendance and achievement on the Smarter Balanced ELA assessment for my students?
+* Do Kindergartners who ride the bus have fewer absences...and if so, what are the most effective supports for increasing attendance with our other students?
+* What are the characteristics of students who do not complete high school in our district? 
+
 ## Skyward ##
 
 ### TOSAs, instructional facilitators, et al. ###
