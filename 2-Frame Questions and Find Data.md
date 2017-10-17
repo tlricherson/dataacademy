@@ -20,7 +20,6 @@ Effective data use begins with a good question. This establishes a purpose for u
 * [Discipline reports](https://github.com/tlricherson/dataacademy/blob/master/documents/Discipline%20Reports%20in%20Skyward.pdf)
 * [Basic data mining](https://github.com/tlricherson/dataacademy/blob/master/documents/Basic%20Data%20Mining.pdf)
 * [Advanced data mining](https://github.com/tlricherson/dataacademy/blob/master/documents/Advanced%20Data%20Mining.pdf)
-<br/>
 
 ## Homeroom ##
 You can access a variety of [supporting documents](https://sdshelpdesk.zendesk.com/hc/en-us) on the district web site. You may also log in to the [Help Center](https://sdshelpdesk.zendesk.com/hc/en-us) on the School Data Solutions web site to search for answers to specific questions, view tutorials, or suggest improvements.
