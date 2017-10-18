@@ -2,6 +2,8 @@
 
 Many of us were taught to read and write text, but few know the basic rules of creating and interpreting powerful visuals. We will focus on elements of visual communication, including color, chart choice, and other attributes. 
 
+**Visual literacy** is the ability to understand, interpret, and evaluate visual messages. **Visualization literacy** is the ability to confidently use a given data visualization to translate data questions into visual queries ([Boy, et al.](https://hal.inria.fr/hal-01027582/document), 2014).
+
 ## Tools ##
 The resources listed below can provide some guidance when selecting a chart and communicating your data. It is critical to remember that design choices are **not** neutral. See the post on [You Say Data, I Say System](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) by Jer Thorp for some background. We will talk about this more in the next session.
 
