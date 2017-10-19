@@ -13,6 +13,9 @@ The resources listed below can provide some guidance when selecting a chart and 
 * [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
 * [The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
 
+## Reminders ##
+The same data set can look very different depending upon which chart you choose. Visit [visualizing distributions](http://www.darkhorseanalytics.com/blog/visualizing-distributions-30) for some examples, but there is additional background on how the [same stats can lead to different graphs](https://www.autodeskresearch.com/publications/samestats). 
+
 ## Literature review ##
 Bartram, L., Patra, A., & Stone, M. (2017, May). [Affective Color in Visualization](https://research.tableau.com/sites/default/files/Affective%20Color%20CHI%202017.pdf). In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 1364-1374). ACM.
 
@@ -30,3 +33,7 @@ Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog
 Visit the [Instagram](https://www.instagram.com/monachalabi/) feed of data editor [Mona Chalabi](https://twitter.com/MonaChalabi) for hand drawn charts on a variety of topics. Also, check out the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing.
 
 [Elijah Meeks](https://twitter.com/Elijah_Meeks) has shared some background on the [gestalt principles for data visualization](https://emeeks.github.io/gestaltdataviz/section1.html). Also check out this article on [five ways you can use gestalt principles for powerful imagery](https://www.neurosciencemarketing.com/blog/articles/gestalt-principles.htm).
+
+Visualization strategies are for more than just quantitative data. Take a look at ways to [visualize punctuation](https://www.vox.com/2016/2/17/11036614/punctuation-visualization) or view some [human portraits made from data](https://www.ted.com/talks/r_luke_dubois_insightful_human_portraits_made_from_data).
+
+Design, in its many forms, is an iterative process. Take a look at all of the [rejected ideas for the proposed Eiffel Tower](https://imgur.com/gallery/REJKP6z) in London. Some accounts, like [Derek Watkins](https://twitter.com/dwtkns), share sketches as well as final products. Check out this one on [Katie Ledecky](https://twitter.com/dwtkns/status/764290847185702912).
