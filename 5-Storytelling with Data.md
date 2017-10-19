@@ -2,7 +2,10 @@
 
 A data story combines text, data, and visual elements. During this session, we will consider the [ethics of design choices](https://pinboard.in/u:tlricherson/t:ethics), the responsibilities of communicating data in equitable ways, and how we can use [basic statistics](https://pinboard.in/u:tlricherson/t:statistics) to know when we have a story.
 
-
+## Statistics ##
+Statistics can be a useful tool for evaluating both data and the stories they tell.
+* An article over at The Conversation summarizes [The Seven Deadly Sins of Statistics...and How to Avoid Them](http://theconversation.com/the-seven-deadly-sins-of-statistical-misinterpretation-and-how-to-avoid-them-74306).
+* Visit my [statistics bookmarks](https://pinboard.in/u:tlricherson/t:statistics) on Pinboard for everything from basic explanations to tools and visuals to support your understanding.
 
 ## Literature review ##
 Boy, J., Detienne, F., & Fekete, J. D. (2015, April). [Storytelling in information visualizations: Does it engage users to explore data?.](http://www.cs.tufts.edu/comp/250VIS/papers/CHI2015-Storytelling.pdf) In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 1449-1458). ACM. 
