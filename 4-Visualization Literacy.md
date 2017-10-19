@@ -16,6 +16,8 @@ The resources listed below can provide some guidance when selecting a chart and 
 ## Reminders ##
 The same data set can look very different depending upon which chart you choose. Visit [visualizing distributions](http://www.darkhorseanalytics.com/blog/visualizing-distributions-30) for some examples, but there is additional background on how the [same stats can lead to different graphs](https://www.autodeskresearch.com/publications/samestats). 
 
+Color can be very tricky. This is a complex topic that we could spend an entire session on. There are some [resources on Pinboard](https://pinboard.in/u:tlricherson/t:color), including palettes, tools for evaluating for people with vision issues, and best practices from the research.
+
 ## Literature review ##
 Bartram, L., Patra, A., & Stone, M. (2017, May). [Affective Color in Visualization](https://research.tableau.com/sites/default/files/Affective%20Color%20CHI%202017.pdf). In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 1364-1374). ACM.
 
