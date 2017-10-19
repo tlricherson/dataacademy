@@ -9,6 +9,8 @@ Effective data use begins with a good question. This establishes a purpose for u
 * What are the characteristics of students who do not complete high school in our district? 
 
 ## Data sources and strategies ##
+Use this [guide to frame your inquiry process](https://github.com/tlricherson/dataacademy/blob/master/documents/Find%20Data.pdf). It's okay if your question isn't perfect, or if you end up starting over. This process is rarely a straight line.
+
 ### Skyward ###
 #### TOSAs, instructional facilitators, et al. ####
 * [Basic data mining](https://github.com/tlricherson/dataacademy/blob/master/documents/Basic%20Data%20Mining.pdf)
@@ -21,7 +23,7 @@ Effective data use begins with a good question. This establishes a purpose for u
 * [Advanced data mining](https://github.com/tlricherson/dataacademy/blob/master/documents/Advanced%20Data%20Mining.pdf)
 
 ### Homeroom ###
-You can access a variety of [supporting documents](https://sdshelpdesk.zendesk.com/hc/en-us) on the district web site. You may also log in to the [Help Center](https://sdshelpdesk.zendesk.com/hc/en-us) on the School Data Solutions web site to search for answers to specific questions, view tutorials, or suggest improvements.
+You can access a variety of [supporting documents](https://sdshelpdesk.zendesk.com/hc/en-us) on the district web site. You may also log in to the [Help Center](https://sdshelpdesk.zendesk.com/hc/en-us) on the School Data Solutions web site to search for answers to specific questions, view tutorials, or suggest improvements. We also put together a [summary of quick tips and tricks](https://github.com/tlricherson/dataacademy/blob/master/documents/Homeroom%20Tips.pdf) on student groups and data extracts.
 
 ### Other ###
 There are many places to find additional data sets for education (and other areas!). Here are a few to get you started:
