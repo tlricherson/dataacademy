@@ -25,6 +25,8 @@ Bertini, E., Elmqvist, N., & Wischgoll, T. (2016). [Judgment error in pie chart 
 
 Brehmer, M., Lee, B., Bach, B., Riche, N. H., & Munzner, T. (2017). [Timelines revisited: A design space and considerations for expressive storytelling](https://timelinesrevisited.github.io/). IEEE transactions on visualization and computer graphics, 23(9), 2151-2164.
 
+Gleicher, M. (2017). [Considerations for Visualizing Comparison](https://graphics.cs.wisc.edu/Papers/2018/Gle18/viscomp.pdf). IEEE Transactions on Visualization and Computer Graphics.
+
 Skau, D., & Kosara, R. (2016, June). [Arcs, angles, or areas: individual data encodings in pie and donut charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf). In Computer Graphics Forum (Vol. 35, No. 3, pp. 121-130).
 
 Walny, J., Huron, S., Perin, C., Wun, T., Pusch, R., & Carpendale, S. (2017). [Active Reading of Visualizations](http://ieeexplore.ieee.org/abstract/document/8017606/?reload=true). IEEE Transactions on Visualization and Computer Graphics.
