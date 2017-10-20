@@ -22,6 +22,7 @@ It’s time to sharpen your skills with Excel, including how to join data from m
 ## Literature review ##
 Wickham, H. (2014). [Tidy data.](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf) Journal of Statistical Software, 59(10), 1-23.
 
+<br/>
 <p align="center"> 
 <img src="https://github.com/tlricherson/dataacademy/blob/master/graphics/ExcelChild.PNG" height="300">
 </p>
