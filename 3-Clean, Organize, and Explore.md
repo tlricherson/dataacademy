@@ -8,7 +8,9 @@ It’s time to sharpen your skills with Excel, including how to join data from m
 * [Chandoo.org](http://chandoo.org/wp/) by [Purna Duggirala](https://twitter.com/r1c1)
 * [Ann K. Emery Tutorials](http://annkemery.com/category/visualizing-data/tutorials/) by [Ann Emery](https://twitter.com/annkemery)
 
-<a href="url"><img src="https://github.com/tlricherson/dataacademy/blob/master/graphics/MadiLAlexander.png" align="center" height="400"  ></a><br/>
+<p align="center"> 
+<img src="https://github.com/tlricherson/dataacademy/blob/master/graphics/MadiLAlexander.png" height="400">
+</p>
 
 ## Tips and tricks ##
 * Have a large load of dirty data? Try [Open Refine](http://openrefine.org/) or the [Data Wrangle](http://vis.stanford.edu/wrangler/) to jumpstart the clean up process.
