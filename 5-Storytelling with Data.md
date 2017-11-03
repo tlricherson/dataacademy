@@ -10,7 +10,7 @@ Statistics can be a useful tool for evaluating both data and the stories they te
 ## Literature review ##
 Boy, J., Detienne, F., & Fekete, J. D. (2015, April). [Storytelling in information visualizations: Does it engage users to explore data?.](http://www.cs.tufts.edu/comp/250VIS/papers/CHI2015-Storytelling.pdf) In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 1449-1458). ACM. 
 
-D’Ignazio, C., & Klein, L. F. (2016). [Feminist data visualization.](http://vis4dh.dbvis.de/papers/Feminist%20Data%20Visualization.pdf) In Workshop on Visualization for the Digital Humanities (VIS4DH), Baltimore. IEEE.
+D’Ignazio, C., & Klein, L. F. (2016). [Feminist data visualization.](http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf) In Workshop on Visualization for the Digital Humanities (VIS4DH), Baltimore. IEEE.
 
 Drucker, J. (2011). [Humanities approaches to graphical display.](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) Digital Humanities Quarterly, 5(1), 1-21.
 
