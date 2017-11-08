@@ -32,9 +32,9 @@ The world runs on Excel, but it is certainly not the only game in town. [The Cha
 
 The [R Project](https://www.r-project.org/) is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of platforms. Because it is open source, there is a robust community of support and lots of free courses available. It is a natural next step for anyone who would like to move beyond Excel's capabilities, or bring their work into an online space. Here are [some additional resources](https://pinboard.in/u:tlricherson/t:R_Studio/) to get you started.
 
-[Elijah Meeks](https://twitter.com/Elijah_Meeks) and [Susie Lu](https://twitter.com/datatoviz) recently published this humorous look at [The 7 Kinds of Data Visualization People](https://medium.com/visualizing-the-field/the-7-kinds-of-data-visualization-people-9964e80443a7). Tag yourself! (Hint: I'm an Excel Brute Forcer.)
+[Elijah Meeks](https://twitter.com/Elijah_Meeks) and [Susie Lu](https://twitter.com/datatoviz) recently published this humorous look at [The 7 Kinds of Data Visualization People](https://medium.com/visualizing-the-field/the-7-kinds-of-data-visualization-people-9964e80443a7). Tag yourself! (Hint: I'm an *Excel Brute Forcer*.)
 
 ## Competent critics ##
 [Henrik Lindberg](https://twitter.com/hnrklndbrg) has posted this interactive on the [sleep habits of Americans](https://htmlpreview.github.io/?https://github.com/halhen/viz-pub/blob/master/sleep-hours/index.html).
 
-
+Qualitative data can be challenging to represent. [This example](https://www.nzz.ch/international/trump-gemessen-an-seinen-eigenen-worten-wahlversprechen-zwischenbilanz-ld.1323655) from a German newspaper places a different spin on a heat map. 
