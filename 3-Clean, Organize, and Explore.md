@@ -2,6 +2,8 @@
 
 It’s time to sharpen your skills with Excel, including how to join data from multiple sources, build pivot tables, as well as formula basics.
 
+Download the practice workbook.
+
 ## Excel blogs and web sites ##
 * [Contextures](http://blog.contextures.com/) by [Debra Dalgleish](https://twitter.com/ddalgleish)
 * [Peltier Tech Blog](https://peltiertech.com/) by [Jon Peltier](https://twitter.com/jon_peltier)
