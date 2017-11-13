@@ -2,7 +2,7 @@
 
 It’s time to sharpen your skills with Excel, including how to join data from multiple sources, build pivot tables, as well as formula basics.
 
-Download the [practice workbook](https://github.com/tlricherson/dataacademy/blob/master/documents/Excel%20Practice.xlsx) and use the cheat sheet to begin building some mad skillz, yo.
+Download the [practice workbook](https://github.com/tlricherson/dataacademy/blob/master/documents/Excel%20Practice.xlsx) and use the [cheat sheet](https://github.com/tlricherson/dataacademy/blob/master/documents/Excel%20Tips%20and%20Tricks.pdf) to begin building some mad skillz, yo.
 
 ## Excel blogs and web sites ##
 * [Contextures](http://blog.contextures.com/) by [Debra Dalgleish](https://twitter.com/ddalgleish)
