@@ -29,9 +29,12 @@ Gannon-Slater, N., Gannon-Slater, N., La Londe, P. G., La Londe, P. G., Crenshaw
 
 Gleicher, M. (2017). [Considerations for Visualizing Comparison](https://graphics.cs.wisc.edu/Papers/2018/Gle18/viscomp.pdf). IEEE Transactions on Visualization and Computer Graphics.
 
+Sarikaya, A., & Gleicher, M. (2017). [Scatterplots: Tasks, data, and designs](https://graphics.cs.wisc.edu/Papers/2018/SG18/scatterplots-preprint.pdf). IEEE Transactions on Visualization and Computer Graphics.
+
 Skau, D., & Kosara, R. (2016, June). [Arcs, angles, or areas: individual data encodings in pie and donut charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf). In Computer Graphics Forum (Vol. 35, No. 3, pp. 121-130).
 
 Walny, J., Huron, S., Perin, C., Wun, T., Pusch, R., & Carpendale, S. (2017). [Active Reading of Visualizations](http://ieeexplore.ieee.org/abstract/document/8017606/?reload=true). IEEE Transactions on Visualization and Computer Graphics.
+
 
 ## Bunny trails ##
 Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
