@@ -36,6 +36,11 @@ The [R Project](https://www.r-project.org/) is a free software environment for s
 
 [Elijah Meeks](https://twitter.com/Elijah_Meeks) and [Susie Lu](https://twitter.com/datatoviz) recently published this humorous look at [The 7 Kinds of Data Visualization People](https://medium.com/visualizing-the-field/the-7-kinds-of-data-visualization-people-9964e80443a7). Tag yourself! (Hint: I'm an *Excel Brute Forcer*.)
 
+<br/>
+<p align="center"> 
+<img src="https://github.com/tlricherson/dataacademy/blob/master/graphics/Excel.PNG" height="300">
+</p>
+
 ## Competent critics ##
 [Henrik Lindberg](https://twitter.com/hnrklndbrg) has posted this interactive on the [sleep habits of Americans](https://htmlpreview.github.io/?https://github.com/halhen/viz-pub/blob/master/sleep-hours/index.html).
 
