@@ -1,6 +1,6 @@
 # 5 - Storytelling with Data #
 
-A data story combines text, data, and visual elements. During this session, we will consider the [ethics of design choices](https://pinboard.in/u:tlricherson/t:ethics), the responsibilities of communicating data in equitable ways, and how we can use [basic statistics](https://pinboard.in/u:tlricherson/t:statistics) to know when we have a story.
+A data story combines text, data, and visual elements. During this session, we will consider the [ethics of design choices](https://responsibledata.io/resources/handbook/), the responsibilities of communicating data in equitable ways, and how we can use [basic statistics](https://pinboard.in/u:tlricherson/t:statistics) to know when we have a story.
 
 ## Statistics ##
 Statistics can be a useful tool for evaluating both data and the stories they tell.
