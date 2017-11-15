@@ -13,6 +13,8 @@ The resources listed below can provide some guidance when selecting a chart and 
 * [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
 * [The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
 
+It may also be helpful to read about [what questions to ask when creating charts](https://blog.datawrapper.de/better-charts/).
+
 ## Reminders ##
 The same data set can look very different depending upon which chart you choose. Visit [visualizing distributions](http://www.darkhorseanalytics.com/blog/visualizing-distributions-30) for some examples, but there is additional background on how the [same stats can lead to different graphs](https://www.autodeskresearch.com/publications/samestats). 
 
