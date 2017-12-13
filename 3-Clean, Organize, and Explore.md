@@ -22,6 +22,8 @@ Download the [practice workbook](https://github.com/tlricherson/dataacademy/blob
 * If you have a lot of data to track, you'll need an organized system and structure for [file naming](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf). Jenny Bryan has shared some excellent tips on how to do this.
 
 ## Literature review ##
+Broman, K. W., & Woo, K. H. (2017). [Data organization in spreadsheets](http://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989?needAccess=true). The American Statistician, (just-accepted).
+
 Wickham, H. (2014). [Tidy data.](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf) Journal of Statistical Software, 59(10), 1-23.
 
 <br/>
